@@ -8,6 +8,8 @@ Return a new array that contains only strings. Log out the result.
 Hint: The typeof operator
 */
 
+const array = [45, "I", true, null, "am", 3.56, "a", undefined, { catchphrase: "Oh hai, Mark"}, "JS", "rockstar"]
+
 const array2 = []
 
 for (let i = 0; i < array.length; i++) {
